@@ -1,6 +1,6 @@
 # Project Venus
 
-**Important Note:** This project is currently experiencing problems in OpenSSL handling.
+**Important Note:** This project is currently experiencing problems in Library uploading
 
 ## Overview
 
