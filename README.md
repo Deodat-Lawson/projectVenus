@@ -1,6 +1,13 @@
-# Project Venus
+# Project Venus V.1.0.0
 
-**Important Note:** This project is currently experiencing problems in Library uploading
+**Important Note:**
+I am writing to inform you that I will no longer be maintaining the [Project Name] project. Unfortunately, there have been persistent issues with MUI styling compatibility with React, which have proven challenging to resolve. Additionally, the GDAL installation that I initially used is no longer supported, and my attempts to switch to Anaconda have introduced further complications.
+
+Due to personal reasons, I am unable to allocate the necessary time and resources to debug and address these issues effectively. As a result, I have decided to discontinue the maintenance of this project.
+
+I apologize for any inconvenience this may cause and appreciate your understanding. If you have any questions or need further information, please feel free to contact me.
+
+Thank you for your support and understanding.
 
 ## Overview
 
@@ -51,8 +58,7 @@ Both client-side and server-side errors are managed effectively within the forms
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/real-estate-website.git
-    cd real-estate-website
+    git clone [https://github.com/yourusername/real-estate-website.git](https://github.com/Deodat-Lawson/projectVenus/)
     ```
 
 2. **Backend Setup:**
