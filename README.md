@@ -1,7 +1,7 @@
 # Project Venus V.1.0.0
 
 **Important Note:**
-I am writing to inform you that I will no longer be maintaining the [Project Name] project. Unfortunately, there have been persistent issues with MUI styling compatibility with React, which have proven challenging to resolve. Additionally, the GDAL installation that I initially used is no longer supported, and my attempts to switch to Anaconda have introduced further complications.
+I am writing to inform you that I will no longer be maintaining the Project Venus. Unfortunately, there have been persistent issues with MUI styling compatibility with React, which have proven challenging to resolve. Additionally, the GDAL installation that I initially used is no longer supported, and my attempts to switch to Anaconda have introduced further complications.
 
 Due to personal reasons, I am unable to allocate the necessary time and resources to debug and address these issues effectively. As a result, I have decided to discontinue the maintenance of this project.
 
